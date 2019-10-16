@@ -24,8 +24,7 @@ Please download src folder.
 
 ## Authors
 
-Cenker Karaors
-Burak Deniz
+Cenker Karaors, Burak Deniz
 
 ## License
 
